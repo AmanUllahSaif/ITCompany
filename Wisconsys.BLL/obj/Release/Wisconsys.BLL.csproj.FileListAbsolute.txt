@@ -1,0 +1,12 @@
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Release\Wisconsys.BLL.dll.config
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Release\Wisconsys.BLL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Release\Wisconsys.BLL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Release\EntityFramework.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Release\Wisconsys.DAL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Release\Wisconsys.DAL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Release\EntityFramework.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\obj\Release\Wisconsys.BLL.csprojResolveAssemblyReference.cache
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\obj\Release\Wisconsys.BLL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\obj\Release\Wisconsys.BLL.pdb

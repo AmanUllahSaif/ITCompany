@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Wisconsys.DAL.Client>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div class="row">
+    @Html.Action("Create", "Client")
+</div>
+
+@if (TempData["Error"] != null)
+{
+    <div class="row">
+        <div class="col-md-12 alert alert-danger">
+            @TempData["Error"]
+        </div>
+    </div>
+}
+<div class="row">
+    <div class="col-xs-12">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h4>Projects</h4>
+                <div class="options">
+
+                </div>
+            </div>
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Image</th>
+                                <th>Name</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null && Model.Count() > 0)
+                            {
+                                foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td></td>
+                                        <td>
+                                            <img src="@Url.Content(item.ImgUrl)" class="img-responsive" style="height:75px;width:75px" />
+                                        </td>
+                                        <td>
+                                            @item.Name
+                                        </td>
+                                        <td>
+                                            @Html.ActionLink("Delete", "Delete", new { Id = item.Id }, new { @class = "btn btn-sm btn-danger" })
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td colspan="4" class="text-danger text-center">
+                                        No Record found.
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

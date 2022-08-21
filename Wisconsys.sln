@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wisconsys.UI", "Wisconsys.UI\Wisconsys.UI.csproj", "{630D39C8-6F83-4D8C-9F26-8F910F006DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wisconsys.BLL", "Wisconsys.BLL\Wisconsys.BLL.csproj", "{DF42C3F7-BFD9-441E-9D01-BE0B1E769833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wisconsys.DAL", "Wisconsys.DAL\Wisconsys.DAL.csproj", "{991D509B-0626-4C26-BDF9-99260A21AA1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{278EA82C-4BFE-46FE-94E2-D37A4C17C055}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630D39C8-6F83-4D8C-9F26-8F910F006DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630D39C8-6F83-4D8C-9F26-8F910F006DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630D39C8-6F83-4D8C-9F26-8F910F006DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630D39C8-6F83-4D8C-9F26-8F910F006DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF42C3F7-BFD9-441E-9D01-BE0B1E769833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF42C3F7-BFD9-441E-9D01-BE0B1E769833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF42C3F7-BFD9-441E-9D01-BE0B1E769833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF42C3F7-BFD9-441E-9D01-BE0B1E769833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991D509B-0626-4C26-BDF9-99260A21AA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991D509B-0626-4C26-BDF9-99260A21AA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991D509B-0626-4C26-BDF9-99260A21AA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991D509B-0626-4C26-BDF9-99260A21AA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,83 @@
+D:\VNext_Projects\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll.config
+D:\VNext_Projects\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll
+D:\VNext_Projects\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.pdb
+D:\VNext_Projects\Wisconsys.DAL\bin\Debug\EntityFramework.dll
+D:\VNext_Projects\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\VNext_Projects\Wisconsys.DAL\bin\Debug\EntityFramework.xml
+D:\VNext_Projects\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\VNext_Projects\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csprojResolveAssemblyReference.cache
+D:\VNext_Projects\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.dll
+D:\VNext_Projects\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.pdb
+D:\VNext_Projects\IT Company\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll.config
+D:\VNext_Projects\IT Company\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll
+D:\VNext_Projects\IT Company\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.pdb
+D:\VNext_Projects\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.dll
+D:\VNext_Projects\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\VNext_Projects\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.xml
+D:\VNext_Projects\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\VNext_Projects\IT Company\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.dll
+D:\VNext_Projects\IT Company\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.pdb
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll.config
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.pdb
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.dll
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.xml
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csprojResolveAssemblyReference.cache
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.dll
+F:\C#.Net Projects\IT Company\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll.config
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csprojResolveAssemblyReference.cache
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.pdb
+E:\office\Projects\ITCompany\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll.config
+E:\office\Projects\ITCompany\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll
+E:\office\Projects\ITCompany\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.pdb
+E:\office\Projects\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.dll
+E:\office\Projects\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\office\Projects\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.xml
+E:\office\Projects\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\office\Projects\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csprojResolveAssemblyReference.cache
+E:\office\Projects\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.dll
+E:\office\Projects\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.pdb
+F:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll.config
+F:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll
+F:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.pdb
+F:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.dll
+F:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.xml
+F:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Vnext\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csprojResolveAssemblyReference.cache
+F:\Vnext\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.dll
+F:\Vnext\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.pdb
+E:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll.config
+E:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll
+E:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.pdb
+E:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.dll
+E:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.xml
+E:\Vnext\ITCompany\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Vnext\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.dll
+E:\Vnext\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.pdb
+E:\Vnext\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csprojAssemblyReference.cache
+E:\Vnext\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csproj.CoreCompileInputs.cache
+E:\Vnext\ITCompany\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csproj.CopyComplete
+E:\Vnext\ITCompany ok\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll.config
+E:\Vnext\ITCompany ok\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.dll
+E:\Vnext\ITCompany ok\Wisconsys.DAL\bin\Debug\Wisconsys.DAL.pdb
+E:\Vnext\ITCompany ok\Wisconsys.DAL\bin\Debug\EntityFramework.dll
+E:\Vnext\ITCompany ok\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Vnext\ITCompany ok\Wisconsys.DAL\bin\Debug\EntityFramework.xml
+E:\Vnext\ITCompany ok\Wisconsys.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Vnext\ITCompany ok\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csprojAssemblyReference.cache
+E:\Vnext\ITCompany ok\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csproj.CoreCompileInputs.cache
+E:\Vnext\ITCompany ok\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.csproj.CopyComplete
+E:\Vnext\ITCompany ok\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.dll
+E:\Vnext\ITCompany ok\Wisconsys.DAL\obj\Debug\Wisconsys.DAL.pdb

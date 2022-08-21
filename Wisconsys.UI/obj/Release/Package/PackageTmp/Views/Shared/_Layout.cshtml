@@ -1,0 +1,940 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Softy House</title>
+    <link rel='stylesheet' href='~/Assets/css/front.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='~/Assets/css/styles.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='~/Assets/css/select.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='~/Assets/css/woocommerce-layout.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='~/Assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+    <link rel='stylesheet' href='~/Assets/css/woocommerce.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='~/Assets/css/font-awesome.min.css' type='text/css' media='screen, all' />
+    <link rel='stylesheet' href='~/Assets/css/owl.carousel.css' type='text/css' media='screen, all' />
+    <link rel='stylesheet' href='~/Assets/css/lightbox.css' type='text/css' media='screen, all' />
+    <link rel='stylesheet' href='~/Assets/css/jquery.mmenu.css' type='text/css' media='screen, all' />
+    <link rel='stylesheet' href='~/Assets/css/fx4646.css?ver=4.3.12' type='text/css' media='screen, all' />
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600%2C700%2C800&amp;ver=4.3.12' type='text/css' media='all' />
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900&amp;ver=4.3.12' type='text/css' media='all' />
+    <link rel='stylesheet' href='~/Assets/css/style4646.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='~/Assets/css/theme-woocommerce.css' type='text/css' media='all' />
+    <style type="text/css">
+        /* Theme Option Color */
+
+        #page {
+            background-color: #f1f1f1;
+        }
+
+        #masthead {
+            background-color: rgba(0, 0, 0, 0);
+        }
+
+        #top {
+            background-color: #77bf4f;
+        }
+
+        #masthead.stuck {
+            background-color: #363f48;
+        }
+
+        .sub-menu,
+        #primary-menu li .sub-menu li:hover .sub-menu a,
+        #primary-menu li .sub-menu .sub-menu li:hover .sub-menu a,
+        #primary-menu li .sub-menu .sub-menu .sub-menu li:hover .sub-menu a,
+        #slider-main,
+        .mega-menu-item,
+        .menu-shop-sub,
+        .sub-mega {
+            background-color: #262d33;
+        }
+
+        #branding {
+            background-color: #2d343c;
+        }
+
+        #content {
+            background-color: #ffffff;
+        }
+
+        #footer {
+            background-color: #212b36;
+        }
+
+        #bottom {
+            background-color: #1a222b;
+        }
+
+        /* Theme Font */
+
+        body {
+            font-family: "Open Sans", Helvetica, Arial, sans-serif;
+        }
+
+        h1, h2, h3, h4, h5, h6, blockquote, .entry-calendar .meta-month, .entry-calendar .meta-day,
+        #primary-menu, .blog-calendar, .gallery-filter ul li, .button-main, .button-sub, .button-edge, .button-dark {
+            font-family: "Lato", Helvetica, Arial, sans-serif;
+        }
+
+        /* Theme Color Main */
+
+        .gallery-box h3 a, .blog-box h3 a,
+        a, a:hover, .entry-meta a, .light h3:hover a, .light .text-icon-left i, .text-icon-left i, #branding p, .tabs.tab-mega .nav-tabs li i, .widget-title-big, .testimonial-list cite small,
+        #bottom p a, #footer-menu li.current_page_item a, .light #footer-menu li.current_page_item a, #bottom #footer-navigation a:hover, #bottom.light #footer-navigation a:hover,
+        .slider-prev i, .slider-next i, .widget a:hover, .widget li:before, .widget a:before, .light .blog-box a, #footer-widget.light h3 a, .light h1, .light h2, .light h3, .light h4, .light .widget li:before, .light .widget a:before,
+        .button-go i, .social-media-group h3 strong, .client-group h3 strong, .text-icon-big i, .staff-list span, .staff-grid span, .inner-hover:hover h3 a, .inner-hover:hover h3, .fx-hover-content h3 a, .testimonial-grid cite small, testimonial-list cite small,
+        .staff-box span, .staff-list span, .dark h3 a, #slider-main .carousel-caption ul li i,
+        .woocommerce .woocommerce-review-link, .woocommerce .shipping-calculator-button, .widget_product_categories ul li a:before,
+        .color-main {
+            color: #77bf4f;
+        }
+
+            #slider-main h2 span, #branding h2 span, .slider-prev:hover, .slider-next:hover, .line-center, .blog-classic .entry-calendar .meta-day,
+            .edit-link a, .entry-quote, .lines:after, .prev.page-numbers, .next.page-numbers, .current.page-numbers:hover, .nav-previous a, .nav-next a,
+            .widget_search .search-submit, .icon-main, .fx-hover-content .line, .button-main, input[type=submit], .comment-list .reply a, .comment-list .edit-link a, .label-main, .button-go:hover,
+            .gallery-filter li a, .accordion-group .fa-plus, .pricing-group.pricing-highlight .pricing-head,
+            .inner-hover:hover .button-medium, .list-icon-square li i, .text-icon-square .text-icon, button.input-icon, .input-group-icon button, .page-content .search-form .button-search,
+            .woocommerce a.button.alt, .woocommerce button.button, a.wc-forward, #vr-menu-shop-button .button, .woocommerce #payment #place_order, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce div.product form.cart .button, .woocommerce a.button, .woocommerce input[type="submit"], .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce ul.products li.product .button,
+            .woocommerce .button, .woocommerce-page .button, .input.wpcf7-submit, .woocommerce-page .button, input.wpcf7-submit, .woocommerce .button, .woocommerce-page .button, .ui-slider .ui-slider-range, .woocommerce nav.woocommerce-pagination ul li span.current,
+            .background-color-main {
+                background-color: #77bf4f;
+                -webkit-transition: background-color 0.2s linear;
+                -moz-transition: background-color 0.2s linear;
+                -o-transition: background-color 0.2s linear;
+                transition: background-color 0.2s linear;
+            }
+
+        .home .sticky, .home .tag-sticky-2, .category-sticky, .widget-title, #reply-title, .comments-title, .screen-reader-text, .comments-title, #reply-title, .title, #secondary .widget-head h3,
+        .entry-calendar .meta-day, .menu-shop-sub, .sub-menu, .mega-menu-item, .quote,
+        .border-color-main {
+            border-color: #77bf4f;
+        }
+
+        .tabs .nav-tabs li.active, .box-center, .box-left,
+        .border-color-main {
+            border-top-color: #77bf4f;
+        }
+
+        .tabs.tab-mega .nav-tabs li.active,
+        .border-color-main {
+            border-bottom-color: #77bf4f;
+        }
+
+        /* Theme Color Sub */
+
+        .icon-sub, .button-sub,
+        .background-color-main {
+            background-color: #f38a01;
+        }
+
+        /* Theme Color Gray Level 1 */
+
+        h1, h2, h3, h4, h5, h1 a, h2 a, h3 a, h4 a, h5 a, item.dark .caption-header, .item.dark h2, #top.dark a, .entry-quote p, .entry-quote i, .entry-quote cite, .light .blog-box h2 a, .item.dark h2,
+        #button-shop-cart, .slider-prev:hover i, .slider-next:hover i, .page-numbers .page-numbers, .button-icon, .button-go:hover i, .widget_nav_menu .sub-menu ul li a:hover,
+        #secondary li a, .widget_search .search-submit:hover, .widget_search .search-submit:focus, .pricing-group .button-edge:hover, .button-edge,
+        .pricing-grid .button-edge:hover, .inner-hover:hover .button-medium, .light a.button-edge:hover, .light a.button-edge:hover i,
+        a.wc-forward:after, .woocommerce nav.woocommerce-pagination ul li span.current, .lb-data .lb-caption, .order-total, .cart-collaterals .shipping_calculator h2 a:hover,
+        .color-gray-1 {
+            color: #373f46;
+        }
+
+        .edit-link a:hover, .reply a:hover, .nav-previous a:hover, .nav-next a:hover, .blog-classic .entry-calendar .meta-month,
+        #site-search, .mm-menu, .edit-link:hover, .current.page-numbers, .current.page-numbers:hover, .prev.page-numbers:hover, .next.page-numbers:hover,
+        .entry-link, #slider-main p span, #branding p span, .slider-prev, .slider-next, .fx-hover-back, .button-main:hover, .button-dark, .button-go, input[type=submit]:hover, a.button-edge:hover, .button-sub:hover,
+        .pricing-group .pricing-head, .pricing-group.pricing-highlight a.button-edge:hover, .pricing-grid.pricing-highlight a.button-edge:hover,
+        .gallery-filter li.active a, .gallery-filter li a:hover,
+        .inner-hover:hover, .staff-box:hover .staff-foot, .project-box:hover .project-foot, .list-icon-circle li i, .text-icon-circle .text-icon,
+        .woocommerce a.wc-backward:hover, .woocommerce button.button:hover, .woocommerce #payment #place_order:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce div.product form.cart .button:hover, .woocommerce input[type="submit"]:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce ul.products li.product .button:hover, .woocommerce .button:hover, .woocommerce-page .button:hover, .woocommerce .button:hover, input.wpcf7-submit:hover, .woocommerce-page .button:hover, .woocommerce .quantity .plus, .woocommerce .quantity .minus, #vr-menu-shop .buttons .button:hover,
+        .woocommerce a.button.alt:hover, .woocommerce-page nav.woocommerce-pagination .page-numbers li a.prev, .woocommerce-page nav.woocommerce-pagination .page-numbers li a.next,
+        .background-color-gray-1 {
+            background-color: #373f46;
+            -webkit-transition: background-color 0.2s linear;
+            -moz-transition: background-color 0.2s linear;
+            -o-transition: background-color 0.2s linear;
+            transition: background-color 0.2s linear;
+        }
+
+        .pricing-group.pricing-highlight a.button-edge,
+        .pricing-grid.pricing-highlight a.button-edge,
+        .border-color-gray-1 {
+            border-color: #373f46;
+        }
+
+        /* Theme Color Gray Level 2 */
+
+        body, i, .item.dark p, .light .blog-box p, .item.dark p, .item.dark ul li, .item.dark .caption-content p, .item.dark .caption-content ul, .item.dark .caption-content i,
+        .widget_product_categories ul li a, .woocommerce ul.product_list_widget li a,
+        .woocommerce-cart .cart-collaterals .cart_totals tr td, .woocommerce-cart .cart-collaterals .cart_totals tr th,
+        .color-gray-2 {
+            color: #485257;
+        }
+
+        .button-dark:hover, .light .button-main:hover,
+        .menu-shop-sub .button:hover, .woocommerce ul.products li.product .button:hover, .woocommerce #vr-menu-shop-button a.button:hover,
+        .light .lines,
+        .background-color-gray-2 {
+            background-color: #485257;
+        }
+
+        .staff-box:hover .project-foot, .project-box:hover .project-foot, .item.dark .caption-content .icon-circle,
+        .border-color-gray-2 {
+            border-color: #485257;
+        }
+
+        /* Theme Color Gray Level 3 */
+
+        .mega-menu-shop .amount, .light #footer-menu li a, .page-header h1, .comment-metadata a, .light .blog-box .blog-meta,
+        .form-group .form-icon i, .testimonial-grid blockquote, .testimonial-list blockquote, blockquote,
+        .staff-grid .button-icon i, .staff-list .button-icon i, .light li i, #footer.light .icon-address i, #footer.light .icon-address h3,
+        .menu-shop-sub, .woocommerce .products .product .price span, .woocommerce .price del span, .vr-menu-shop-sub, .vr-menu-shop-sub .quantity .amount, .vr-menu-shop-sub .total, .vr-menu-shop-sub .total .amount, .product_list_widget span.amount, .product_list_widget span.reviewer,
+        .color-gray-3 {
+            color: #808687;
+        }
+
+        .owl-pagination .owl-page.active span,
+        .background-color-gray-3 {
+            background-color: #808687;
+        }
+
+        #site-search .search-form,
+        .border-color-gray-3 {
+            border-color: #808687;
+        }
+
+        /* Theme Color Gray Level 4 */
+
+        .blog-standard, .blog-box .inner-hover, .staff-box .inner-hover, .project-box .inner-hover, .project-box-list .inner-hover, .gallery-box .inner-hover,
+        .project-box .project-foot, .staff-box .staff-foot, input[type=text], input[type=email], input[type=url], textarea, .form-group textarea,
+        .border-color-gray-4 {
+            border-color: #dedede;
+        }
+
+        .owl-pagination .owl-page span,
+        .background-color-gray-4 {
+            background-color: #dedede;
+        }
+
+        /* Theme Color Gray Level 5 */
+
+        .mm-menu, .mm-menu .mm-title, .mm-menu .sub-menu .menu-item a,
+        .color-gray-5 {
+            color: #f5f5f5;
+        }
+
+        .staff-box .staff-foot, .project-box .project-foot, .pricing-grid .pricing-foot, .lines,
+        .background-color-gray-5 {
+            background-color: #f5f5f5;
+        }
+
+        /* Theme Color White */
+
+        #logo h1 a, .light.panel-faq .text-icon-left .text-icon i, .blog-classic .entry-calendar .meta-day, .blog-classic .entry-calendar .meta-month, #top.dark .button-dark,
+        #top.light p, #top.light a, #top.light .social-media a i, #top.light a:hover, .accordion-group .fa-plus, #top.light i, .light .blog-box:hover p,
+        #branding.light h2, #branding.light .breadcrumb, #branding.light .breadcrumb a, .item.light h2, .item.light p,
+        .edit-link a, .prev.page-numbers, .next.page-numbers, .current.page-numbers, .nav-links .nav-previous:hover a, .nav-links .nav-next:hover a, .edit-link a:hover, .next.page-numbers:hover, .next.page-numbers:hover,
+        #footer.light h4, #footer.light, #footer.light .icon-address small, .widget_search .search-submit i, .button-main i, .button-sub i, .button-dark i, .button-sub:hover,
+        a.button-dark:hover, a.button-edge:hover, a.button-edge:hover i, .button-dark, a.button-main:hover, .button-main:hover i, .button-dark, .button-dark:hover, .button-dark i, input[type=submit]:hover,
+        .light a.button-edge, .light .button-edge i, .light h2, .light p, .light a, .light .button-main:hover, .light blockquote i,
+        .light .banner-left .banner-head p, .staff-box .button-icon:hover i, .staff-list .button-icon:hover i,
+        .staff-grid .button-icon:hover i, .staff-list .button-icon:hover i, .page-content .search-form .button-search i,
+        .gallery-filter li a, .gallery-filter li.active a, .gallery-filter li a:hover, .gallery-grid h3 a, .pricing-group .button-edge, .pricing-group.pricing-highlight a.button-edge:hover,
+        .pricing-grid .button-edge, .pricing-grid.pricing-highlight a.button-edge:hover, .social-media-group .social-media-item i, .social-media-group .social-media-media:hover i, .social-media-group h3, .client-group h3,
+        .inner-hover:hover, .light, .list-icon-circle li i, .text-icon-circle .text-icon i, .woocommerce button.button,
+        .menu-shop-sub .button:hover, .woocommerce ul.products li.product .button:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce .woocommerce-message a, .woocommerce .woocommerce-message a:hover, .woocommerce .wc-backward, .woocommerce nav.woocommerce-pagination ul li span.current,
+        .woocommerce .button:hover, .woocommerce-page .button:hover, .woocommerce .cart .button:hover, .woocommerce .cart input.button:hover, .woocommerce input[type="submit"]:hover, .woocommerce .button:hover, .woocommerce-page input[type="submit"]:hover, .woocommerce-page .button:hover,
+        .woocommerce button.button:hover, .woocommerce input.button:hover, .nav-links .nav-previous a, .nav-links .nav-next a, .woocommerce ul.products li.product .button,
+        .post-navigation .nav-previous:hover:after, .post-navigation .nav-next:hover:after, .counter h3, .counter h3 i, .woocommerce .widget_price_filter .price_slider_amount .button,
+        .light .text-icon-left h3, .pricing-grid .pricing-head, .pricing-grid .pricing-head i, .pricing-widget .pricing-head, .pricing-widget .pricing-head i, .woocommerce a.button,
+        .color-white {
+            color: #ffffff;
+        }
+
+            .pricing-group .button-edge:hover, .pricing-grid .button-edge:hover, .light a.button-edge:hover, .panel-lines .line-center,
+            .background-color-white {
+                background-color: #ffffff;
+            }
+
+            #top.light .social-media a, .light .button-edge, .pricing-group .button-edge, .pricing-grid .button-edge,
+            .border-color-white {
+                border-color: #ffffff;
+            }
+
+        /* Menu */
+
+        #logo {
+            margin-top: 28px;
+        }
+
+        #button-shop {
+            padding-bottom: 40px;
+        }
+
+        .menu-shop-sub {
+            margin-top: 40px;
+        }
+
+        #primary-menu > li > .sub-menu,
+        #primary-menu > li > .mega-menu-item {
+            margin-top: 25px !important;
+        }
+
+        #primary-menu > li {
+            padding: 30px 0 30px 10px;
+        }
+
+            #primary-menu > li > a,
+            #primary-menu > li.current-menu-ancestor > a,
+            #primary-menu > li.current-menu-item > a,
+            #primary-menu > li.current_page_item > a {
+                border: 2px solid rgba(0, 0, 0, 0);
+                border-radius: 1px;
+                padding: 10px 12px;
+            }
+
+            #primary-menu > li:hover > a {
+                background-color: #77bf4f;
+                border-color: #77bf4f;
+            }
+
+            #primary-menu > li.current-menu-ancestor > a,
+            #primary-menu > li.current-menu-item > a,
+            #primary-menu > li.current_page_item > a {
+                border-color: #ffffff;
+            }
+
+            #primary-menu > li.current-menu-ancestor:hover > a,
+            #primary-menu > li.current-menu-item:hover > a,
+            #primary-menu > li.current_page_item:hover > a {
+                border-color: #77bf4f;
+            }
+
+        #menu .button-icon {
+            padding-top: 40px;
+        }
+
+        #menu #button-shop {
+            padding-top: 40px;
+        }
+
+        #menu .button-icon i {
+            color: #ffffff;
+        }
+
+        /* Menu Stuck */
+
+        .stuck #menu.light #logo h1 a {
+            color: #ffffff;
+        }
+
+        .stuck .menu-shop-sub {
+            margin-top: 25px;
+        }
+
+        .stuck #primary-menu > li > .sub-menu,
+        .stuck #primary-menu > li > .mega-menu-item {
+            margin-top: 0 !important;
+        }
+
+        .stuck #primary-menu > li {
+            padding: 0;
+        }
+
+            .stuck #primary-menu > li > a {
+                padding: 25px 16px;
+                border: 0px;
+                border-radius: 0;
+            }
+
+        .stuck #logo h1 a,
+        .stuck #menu.dark i,
+        .stuck #menu.dark #primary-menu > li > a {
+            color: #373f46;
+        }
+
+        .stuck #menu.light #primary-menu > li > a {
+            color: #ffffff;
+            ;
+        }
+
+        .stuck #primary-menu > li:hover > a,
+        .stuck #primary-menu > li.current-menu-ancestor > a,
+        .stuck #primary-menu > li.current-menu-item > a,
+        .stuck #primary-menu > li.current_page_item > a,
+        #primary-menu li .sub-menu > li:hover > a,
+        #primary-menu li .sub-menu .sub-menu > li:hover > a,
+        #primary-menu li .sub-menu .sub-menu .sub-menu > li:hover > a,
+        #primary-menu li .sub-menu .sub-menu .sub-menu .sub-menu > li:hover > a,
+        #primary-menu .sub-menu > .current-menu-ancestor > a,
+        #primary-menu .sub-menu > .current-menu-parent > a,
+        .sub-menu li > a:hover, .mm-menu .menu-item:hover, #button-shop-cart, #button-shop-cart i,
+        .sub-menu > .current_page_item > a,
+        .sub-menu > .current-menu-item > a,
+        .mega-menu-insert .sub-menu > .current_page_item > a,
+        .mega-menu-insert .sub-menu > .current-menu-item > a,
+        #primary-menu .mega-menu-item .mega-menu-insert ul > li.current_page_item > a,
+        .selection-invert {
+            color: #ffffff !important;
+            background-color: #77bf4f !important;
+            -webkit-transition: background-color 0.2s linear;
+            -moz-transition: background-color 0.2s linear;
+            -o-transition: background-color 0.2s linear;
+            transition: background-color 0.2s linear;
+        }
+
+        .widget_nav_menu .sub-menu li:hover,
+        .widget_nav_menu .sub-menu li a:hover {
+            color: #373f46 !important;
+        }
+
+        ::selection {
+            background-color: #77bf4f;
+            color: #ffffff;
+        }
+
+        ::-moz-selection {
+            background-color: #77bf4f;
+            color: #ffffff;
+        }
+
+
+        #branding {
+            background-image: url('wp-content/uploads/2015/08/parallax.jpg');
+        }
+
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+
+        .recentcomments a {
+            display: inline !important;
+            padding: 0 !important;
+            margin: 0 !important;
+        }
+
+        #pg-73-0, #pg-73-1, #pg-73-2, #pg-73-3, #pg-73-4, #pg-73-5, #pg-73-6, #pg-73-7, #pg-73-8, #pg-73-9, #pl-73 .panel-grid-cell .so-panel {
+            margin-bottom: 30px;
+        }
+
+        #pgc-73-1-0 {
+            width: 40.019%;
+        }
+
+        #pgc-73-1-1 {
+            width: 59.981%;
+        }
+
+        #pg-73-1 .panel-grid-cell, #pg-73-5 .panel-grid-cell, #pg-73-7 .panel-grid-cell, #pg-73-9 .panel-grid-cell, #pg-73-10 .panel-grid-cell {
+            float: left;
+        }
+
+        #pgc-73-5-0 {
+            width: 44.958%;
+        }
+
+        #pgc-73-5-1 {
+            width: 55.042%;
+        }
+
+        #pgc-73-7-0, #pgc-73-7-1, #pgc-73-10-0, #pgc-73-10-1 {
+            width: 50%;
+        }
+
+        #pgc-73-9-0, #pgc-73-9-2 {
+            width: 32.027%;
+        }
+
+        #pgc-73-9-1 {
+            width: 35.945%;
+        }
+
+        #pl-73 .panel-grid-cell .so-panel:last-child {
+            margin-bottom: 0;
+        }
+
+        #pg-73-1, #pg-73-5, #pg-73-7, #pg-73-9, #pg-73-10 {
+            margin-left: -15px;
+            margin-right: -15px;
+        }
+
+            #pg-73-1 .panel-grid-cell, #pg-73-5 .panel-grid-cell, #pg-73-7 .panel-grid-cell, #pg-73-9 .panel-grid-cell, #pg-73-10 .panel-grid-cell {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+
+        @@media (max-width:780px) {
+            #pg-73-0 .panel-grid-cell, #pg-73-1 .panel-grid-cell, #pg-73-2 .panel-grid-cell, #pg-73-3 .panel-grid-cell, #pg-73-4 .panel-grid-cell, #pg-73-5 .panel-grid-cell, #pg-73-6 .panel-grid-cell, #pg-73-7 .panel-grid-cell, #pg-73-8 .panel-grid-cell, #pg-73-9 .panel-grid-cell, #pg-73-10 .panel-grid-cell {
+                float: none;
+                width: auto;
+            }
+
+            #pgc-73-1-0, #pgc-73-5-0, #pgc-73-7-0, #pgc-73-9-0, #pgc-73-9-1, #pgc-73-10-0 {
+                margin-bottom: 30px;
+            }
+
+            #pl-73 .panel-grid {
+                margin-left: 0;
+                margin-right: 0;
+            }
+
+            #pl-73 .panel-grid-cell {
+                padding: 0;
+            }
+        }
+    </style>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body data-spy="scroll" data-target=".main-navigation" class="home page page-id-73 page-template-default siteorigin-panels siteorigin-panels-home">
+    <div id="page" class="hfeed site sticky_header page-full">
+
+        <!-- begin #masthead -->
+        <header id="masthead" class="masthead-corporate site-header  clearfix" role="banner">
+
+         
+            <!-- begin #top -->
+            <div id="top" class="clearfix light">
+                <div class="container">
+
+                    <!-- begin .site-info -->
+                    <div class="site-info">
+                        <p></p>
+                    </div>
+                    <!-- end .site-info -->
+                    <!-- begin .social-media-->
+                    <div class="top-address">
+                        <span><i class="fa fa-phone"></i>01282500000</span>
+                    </div>
+                    <!-- end .social-media -->
+
+                </div>
+            </div>
+            <!-- end #top -->
+            <!-- begin #menu -->
+            <div id="menu" class="clearfix light">
+                <div class="container">
+                    <!-- begin #logo -->
+                    <div id="logo">
+                        <a href="@Url.Content("~/")" rel="home">
+                            <img src="~/Assets/images/logo.JPG" height="90" width="140"/>
+                        </a>
+                    </div>
+                    <!-- end #logo -->
+                    <div id="button-menu" class="button-icon"><a href="#mobile-navigation"><i class="fa fa-bars"></i></a></div>
+                    <!-- begin #site-navigation -->
+                   @Html.Action("Navbar", "Home")
+                    <!-- end #site-navigation -->
+                </div>
+            </div>
+            <!-- end #menu -->
+        </header>
+        <!-- end #masthead -->
+        <!-- end #mega-menu -->
+        <section id="mega-menu">
+
+
+
+            <div class="mega-menu-item mega-menu-item-Blog ">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="mega-menu-insert col-sm-3 clearfix"></div>
+
+
+
+                        <div class="col-sm-3">
+                            <a class="mega-menu-picture" href="news-demo-1/index.html"><img src="wp-content/uploads/2015/08/blog_01-260x160.jpg" width="260" height="160" alt="Board Of Director" /></a>
+                            <h3 class="mega-menu-title"><a href="news-demo-1/index.html">Board Of Director</a></h3>
+                        </div>
+
+
+                        <div class="col-sm-3">
+                            <a class="mega-menu-picture" href="news-demo-2/index.html"><img src="wp-content/uploads/2015/08/blog_02-260x160.jpg" width="260" height="160" alt="New Office Lobby" /></a>
+                            <h3 class="mega-menu-title"><a href="news-demo-2/index.html">New Office Lobby</a></h3>
+                        </div>
+
+
+                        <div class="col-sm-3">
+                            <a class="mega-menu-picture" href="news-demo-3/index.html"><img src="wp-content/uploads/2015/08/blog_03-260x160.jpg" width="260" height="160" alt="The Partnership" /></a>
+                            <h3 class="mega-menu-title"><a href="news-demo-3/index.html">The Partnership</a></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="mega-menu-item mega-menu-item-Gallery ">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="mega-menu-insert col-sm-3 clearfix"></div>
+
+
+
+                        <div class="col-sm-3">
+                            <a class="mega-menu-picture" href="vr_gallerys/gallery-demo-1/index.html"><img src="wp-content/uploads/2015/08/gallery_01-260x160.png" width="260" height="160" alt="Gallery One" /></a>
+                            <h3 class="mega-menu-title"><a href="vr_gallerys/gallery-demo-1/index.html">Gallery One</a></h3>
+                        </div>
+
+
+                        <div class="col-sm-3">
+                            <a class="mega-menu-picture" href="vr_gallerys/gallery-demo-2/index.html"><img src="wp-content/uploads/2015/08/gallery_02-260x160.png" width="260" height="160" alt="Gallery Two" /></a>
+                            <h3 class="mega-menu-title"><a href="vr_gallerys/gallery-demo-2/index.html">Gallery Two</a></h3>
+                        </div>
+
+
+                        <div class="col-sm-3">
+                            <a class="mega-menu-picture" href="vr_gallerys/gallery-demo-3/index.html"><img src="wp-content/uploads/2015/08/gallery_03-260x160.png" width="260" height="160" alt="Gallery Three" /></a>
+                            <h3 class="mega-menu-title"><a href="vr_gallerys/gallery-demo-3/index.html">Gallery Three</a></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="mega-menu-item mega-menu-item-Shop ">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="mega-menu-insert col-sm-3 clearfix"></div>
+
+
+
+                        <div class="mega-menu-shop col-sm-3 clearfix">
+                            <a class="mega-menu-picture" href="shop/posters/woo-logo-3/index.html"><img src="wp-content/uploads/2013/06/poster_5_up-70x70.jpg" width="70" height="70" alt="Woo Logo" /></a>
+                            <h3 class="mega-menu-title"><a href="shop/posters/woo-logo-3/index.html">Woo Logo</a></h3>
+                            <p><span class="amount">&pound;15.00</span></p>
+                        </div>
+
+
+                        <div class="mega-menu-shop col-sm-3 clearfix">
+                            <a class="mega-menu-picture" href="shop/posters/woo-ninja-3/index.html"><img src="wp-content/uploads/2013/06/poster_4_up-70x70.jpg" width="70" height="70" alt="Woo Ninja" /></a>
+                            <h3 class="mega-menu-title"><a href="shop/posters/woo-ninja-3/index.html">Woo Ninja</a></h3>
+                            <p><span class="amount">&pound;15.00</span></p>
+                        </div>
+
+
+                        <div class="mega-menu-shop col-sm-3 clearfix">
+                            <a class="mega-menu-picture" href="shop/posters/premium-quality-2/index.html"><img src="wp-content/uploads/2013/06/poster_3_up-70x70.jpg" width="70" height="70" alt="Premium Quality" /></a>
+                            <h3 class="mega-menu-title"><a href="shop/posters/premium-quality-2/index.html">Premium Quality</a></h3>
+                            <p><del><span class="amount">&pound;15.00</span></del> <ins><span class="amount">&pound;12.00</span></ins></p>
+                        </div>
+
+
+                        <div class="mega-menu-shop col-sm-3 clearfix">
+                            <a class="mega-menu-picture" href="shop/posters/flying-ninja/index.html"><img src="wp-content/uploads/2013/06/poster_2_up-70x70.jpg" width="70" height="70" alt="Flying Ninja" /></a>
+                            <h3 class="mega-menu-title"><a href="shop/posters/flying-ninja/index.html">Flying Ninja</a></h3>
+                            <p><del><span class="amount">&pound;15.00</span></del> <ins><span class="amount">&pound;12.00</span></ins></p>
+                        </div>
+
+
+                        <div class="mega-menu-shop col-sm-3 clearfix">
+                            <a class="mega-menu-picture" href="shop/posters/ship-your-idea-3/index.html"><img src="wp-content/uploads/2013/06/poster_1_up-70x70.jpg" width="70" height="70" alt="Ship Your Idea" /></a>
+                            <h3 class="mega-menu-title"><a href="shop/posters/ship-your-idea-3/index.html">Ship Your Idea</a></h3>
+                            <p><span class="amount">&pound;15.00</span></p>
+                        </div>
+
+
+                        <div class="mega-menu-shop col-sm-3 clearfix">
+                            <a class="mega-menu-picture" href="shop/clothing/woo-logo-2/index.html"><img src="wp-content/uploads/2013/06/hoodie_1_front-70x70.jpg" width="70" height="70" alt="Woo Logo" /></a>
+                            <h3 class="mega-menu-title"><a href="shop/clothing/woo-logo-2/index.html">Woo Logo</a></h3>
+                            <p><span class="amount">&pound;35.00</span></p>
+                        </div>
+
+
+                        <div class="mega-menu-shop col-sm-3 clearfix">
+                            <a class="mega-menu-picture" href="shop/clothing/ninja-silhouette-2/index.html"><img src="wp-content/uploads/2013/06/hoodie_2_front-70x70.jpg" width="70" height="70" alt="Ninja Silhouette" /></a>
+                            <h3 class="mega-menu-title"><a href="shop/clothing/ninja-silhouette-2/index.html">Ninja Silhouette</a></h3>
+                            <p><span class="amount">&pound;35.00</span></p>
+                        </div>
+
+
+                        <div class="mega-menu-shop col-sm-3 clearfix">
+                            <a class="mega-menu-picture" href="shop/clothing/happy-ninja-2/index.html"><img src="wp-content/uploads/2013/06/hoodie_3_front-70x70.jpg" width="70" height="70" alt="Happy Ninja" /></a>
+                            <h3 class="mega-menu-title"><a href="shop/clothing/happy-ninja-2/index.html">Happy Ninja</a></h3>
+                            <p><span class="amount">&pound;35.00</span></p>
+                        </div>
+
+
+                        <div class="mega-menu-shop col-sm-3 clearfix">
+                            <a class="mega-menu-picture" href="shop/clothing/patient-ninja/index.html"><img src="wp-content/uploads/2013/06/hoodie_4_front-70x70.jpg" width="70" height="70" alt="Patient Ninja" /></a>
+                            <h3 class="mega-menu-title"><a href="shop/clothing/patient-ninja/index.html">Patient Ninja</a></h3>
+                            <p><span class="amount">&pound;35.00</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <!-- end #mega-menu -->
+
+
+
+        @RenderBody()
+
+        <!-- begin #footer -->
+        <footer id="footer" class="site-footer light" role="contentinfo">
+
+            <!-- begin .footer-social -->
+            <section id="footer-social">
+                <div class="container">
+                    <div class="row">
+                        <div class="icon-facebook col-sm-25"><a href="https://www.facebook.com/Softy-house-ltd-2115123398724656/?modal=admin_todo_tour" target="_blank"><i class="fa fa-facebook"></i>Facebook</a></div>
+                        <div class="icon-twitter col-sm-25"><a href="#"><i class="fa fa-twitter"></i>Twitter</a></div>
+                        <div class="icon-googleplus col-sm-25"><a href="#"><i class="fa fa-google-plus"></i>Google+</a></div>
+                        <div class="icon-youtube col-sm-25"><a href="#"><i class="fa fa-youtube"></i>Youtube</a></div>
+                        <div class="icon-email col-sm-25"><a href="mailto:Admin@Softyhouseltd.co.uk"><i class="fa fa-envelope"></i>EMail</a></div>
+                    </div>
+                </div>
+            </section>
+            <!-- end .footer-social -->
+            <!-- begin #footer-address -->
+            <section id="footer-address">
+                <div class="container">
+                    <div class="row">
+                        <div class="text col-sm-12 col-md-3">
+                          
+                            <a href="@Url.Content("~/")" rel="home">
+                                <img src="~/Assets/images/logo.JPG" height="70" width="100" />
+                            </a>
+                        </div>
+                        <div class="row icon-address col-sm-3 col-md-3">
+                            <i class="fa fa-university"></i>
+                            &nbsp
+                            <h3>67 Clone Road Brierfield , <small>BB9 5NP Uk</small></h3>
+                        </div>
+                        <div class="icon-address col-sm-3 col-md-3">
+                            <i class="fa fa-fax"></i>
+                            &nbsp
+                            <h3>Ph: 01282500000<small> Cell: 01282500000</small></h3>
+                        </div>
+                        <div class="icon-address col-sm-3 col-md-3">
+                            <i class="fa fa-envelope-o"></i>
+                            &nbsp
+                            <h3>24 / 7 Tech Support <small>Admin@Softyhouseltd.co.uk</small></h3>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- end #footer-address -->
+            <!-- begin #bottom -->
+            @*<section id="bottom" class="light">
+                <div class="container">
+                    <!-- begin .site-info -->
+                    <div class="site-copyright">
+                        <p>Copyright Armada 2015</p>
+                    </div>
+                    <!-- end .site-info -->
+                    <!-- begin #footer-navigation -->
+                    <nav id="footer-navigation" class="main-navigation" role="navigation">
+                        <ul id="footer-menu" class="menu">
+                            <li id="menu-item-3798" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-73 current_page_item menu-item-3798"><a href="index.html">Home</a></li>
+                            <li id="menu-item-3800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3800"><a href="about/index.html">About</a></li>
+                            <li id="menu-item-3804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3804"><a href="services/index.html">Services</a></li>
+                            <li id="menu-item-3803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3803"><a href="pricings/index.html">Pricings</a></li>
+                            <li id="menu-item-3795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3795"><a href="features/index.html">Features</a></li>
+                            <li id="menu-item-3799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3799"><a href="contact/index.html">Contact</a></li>
+                        </ul>
+                    </nav>
+                    <!-- end #footer-navigation -->
+
+                </div>
+            </section>*@
+            <!-- end #bottom -->
+        </footer>
+        <!-- end #footer -->
+        <!-- begin #mobile-navigation -->
+        <nav id="mobile-navigation" role="navigation">
+            <ul id="menu-primary-menu" class="menu">
+                <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-73 current_page_item menu-item-3797"><a href="index.html">Home</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8">
+                    <a href="about/index.html">Page</a>
+                    <ul class="sub-menu">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1328"><a href="about/index.html">About</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1329"><a href="features/index.html">Features</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3792">
+                            <a href="services/index.html">Services</a>
+                            <ul class="sub-menu">
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3812"><a href="project-cross-platform/index.html">Cross Platform App</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3814"><a href="project-app-analytic/index.html">Web App Analytic</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813"><a href="project-cloud-sync/index.html">Cloud Data Sync</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3811"><a href="project-que-monitor/index.html">Que Monitoring</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1330"><a href="pricings/index.html">Pricings</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3807"><a href="teams/index.html">Teams</a></li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7">
+                    <a href="blog-standard/index.html">Blog</a>
+                    <ul class="sub-menu">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3810"><a href="blog-standard/index.html">Blog Standard</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3809"><a href="blog-mansonry/index.html">Blog Mansonry</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3808"><a href="blog-classic/index.html">Blog Classic</a></li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6">
+                    <a href="gallery-sortable/index.html">Gallery</a>
+                    <ul class="sub-menu">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3794"><a href="gallery-sortable/index.html">Gallery Sortable</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3793"><a href="gallery-mansonry/index.html">Gallery Mansonry</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3801"><a href="gallery-uneven/index.html">Gallery Uneven</a></li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9">
+                    <a href="shop/index.html">Shop</a>
+                    <ul class="sub-menu">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3802"><a href="shop/index.html">Shop</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3806"><a href="cart/index.html">Cart</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3805"><a href="checkout/index.html">Checkout</a></li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3796"><a href="contact/index.html">Contact</a></li>
+            </ul>
+        </nav>
+        <!-- end #mobile-navigation -->
+        <a href="#page" class="button-go scroll-to" style="display: block;"><i class="fa fa-chevron-up"></i></a>
+
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <!-- end #page -->
+    @*<script type='text/javascript' src='Assets/js/jquery/jqueryc1d8.js?ver=1.11.3'></script>*@
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery/jquery-migrate.min4646.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery.form.mind03d.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/scripts0235.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/frontend/add-to-cart.min42d8.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/select2/select2.min49eb.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery-blockui/jquery.blockUI.minc8cb.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/frontend/woocommerce.min42d8.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery-cookie/jquery.cookie.min330a.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/frontend/cart-fragments.min42d8.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery.min4646.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery-migrate.min4646.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/bootstrap.min4646.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery.easing.min4646.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery.nicescroll.min4646.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/owl.carousel.min4646.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/lightbox.min4646.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/masonry.min4646.js'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/waypoint.min4646.js?ver=4.3.12'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/quicksand.min4646.js?ver=4.3.12'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery.scrolly.min4646.js?ver=4.3.12'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/jquery.mmenu.min4646.js?ver=4.3.12'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/theme4646.js?ver=4.3.12'></script>
+    <script type='text/javascript' src='@Url.Content("~/")Assets/js/comment-reply.min4646.js?ver=4.3.12'></script>
+    <script type="text/javascript">
+        // <![CDATA[
+        jQuery(function ($) {
+            $(document).ready(function () {
+                // Add smooth scrolling to all links
+                $("a").on('click', function (event) {
+
+                    // Make sure this.hash has a value before overriding default behavior
+                    if (this.hash !== "") {
+                        // Prevent default anchor click behavior
+                        event.preventDefault();
+
+                        // Store hash
+                        var hash = this.hash;
+
+                        // Using jQuery's animate() method to add smooth page scroll
+                        // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+                        $('html, body').animate({
+                            scrollTop: $(hash).offset().top
+                        }, 800, function () {
+
+                            // Add hash (#) to URL when done scrolling (default click behavior)
+                            window.location.hash = hash;
+                        });
+                    } // End if
+                });
+                // activate so panel
+                function soPanelFull() {
+                    $('.page-full .panel-row-style:not(".panel-full")').each(function () {
+                        var $expanded = 0;
+                        if ($('body').outerWidth() > 1200) {
+                            $expanded = ($('body').outerWidth() - 1200) / 2;
+                        }
+                        $(this).css({
+                            'margin-left': -$expanded + 'px',
+                            'margin-right': -$expanded + 'px',
+                            'padding-left': $expanded + 'px',
+                            'padding-right': $expanded + 'px'
+                        });
+                    });
+
+                    $('.page-full .panel-full').each(function () {
+                        var $expanded = 0;
+                        if ($('body').outerWidth() > 1200) {
+                            $expanded = ($('body').outerWidth() - 1200) / 2;
+                        }
+                        $(this).parent('.panel-grid').css({
+                            'width': $('body').outerWidth() + 'px',
+                            'margin-left': -$expanded + 'px',
+                            'margin-right': -$expanded + 'px',
+                        });
+                    });
+                }
+
+                var outer_height = -$('#masthead').outerHeight() + 120;
+                $('.sticky_header #masthead').waypoint('sticky', {
+                    offset: outer_height
+                });
+                $('#page').waypoint(function () {
+                    $('.sticky_header #masthead #top').slideToggle();
+                }, { offset: outer_height });
+
+                soPanelFull();
+
+
+                soPanelFull();
+
+                // Mega Menu Generated
+                function megaMenu(menuItem) {
+                    $('#site-navigation #primary-menu .menu-item a').each(function () {
+                        if ($(this).text() == menuItem) {
+                            var menuInsert = $(this).parent().find('.sub-menu');
+                            var menuAppend = $(this).parent();
+                            $('#mega-menu .mega-menu-item-' + menuItem + ' .mega-menu-insert').append(menuInsert.clone());
+                            menuAppend.append($('#mega-menu .mega-menu-item-' + menuItem));
+                            $(this).parent().hover(
+                                function () {
+                                    if ($(window).width() > 979) {
+                                        $(this).find('.sub-menu').css({ display: 'none' });
+                                        $(this).find('.mega-menu-item').css({ top: 'auto' });
+                                        $(this).find('.mega-menu-item').css({ width: $(window).width() });
+                                        $(this).find('.mega-menu-item .sub-menu').css({ display: 'block' });
+                                        $(this).find('.mega-menu-item').show();
+                                    }
+                                },
+                                function () {
+                                    if ($(window).width() > 979) {
+                                        $(this).find('.mega-menu-item').hide();
+                                    }
+                                }
+                            );
+                        }
+                    });
+                }
+
+                megaMenu('Blog');
+                megaMenu('Gallery');
+                megaMenu('Shop');
+            });
+        });
+        // ]]></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

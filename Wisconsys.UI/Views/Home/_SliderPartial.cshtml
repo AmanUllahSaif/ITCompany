@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Wisconsys.DAL.Slider>
+
+@using Wisconsys.DAL.Enum
+@if (Model != null && Model.Count() > 0)
+{
+    int j = 0;
+    <section id="slider-main" class="carousel slide" data-ride="carousel">
+
+        <ol class="carousel-indicators">
+            @for (int i = 0; i < Model.Count(); i++)
+            {
+                if (i == 0)
+                {
+                    <li data-target="#slider-main" data-slide-to="@i" class="active"></li>
+                }
+                else
+                {
+                    <li data-target="#slider-main" data-slide-to="@i"></li>
+                }
+            }
+
+
+        </ol>
+        <div class="carousel-inner">
+            @foreach (var item in Model)
+            {
+                switch ((SlideType)item.Type)
+                {
+                    case SlideType.Center:
+                        <article class="item light @(j == 0 ? "active":"")" style="background-image:url(@Url.Content(item.BackgrounImg));">
+                            <div class="carousel-caption slider-item-center slider-item-v-top fx">
+                                <div class="caption-header fx-start" data-animation="fadeInDown"><h2>@item.Heading</h2></div>
+                                <div class="caption-content fx-start" data-animation="fadeInUp"><p>@item.Discription</p></div>
+                                <img class="picture fx-start" data-animation="bounceIn" src="@Url.Content(item.Imgurl)" alt="Slider 1" />
+                            </div>
+                        </article>
+                        break;
+                    case SlideType.LeftText:
+                        <article class="item light @(j == 0 ? "active":"")" style="background-image:url(@Url.Content(item.BackgrounImg));">
+
+                            <div class="carousel-caption slider-item-left slider-item-v-center fx">
+                                <div class="caption-header fx-start" data-animation="fadeInDown"><h2>@item.Heading</h2></div>
+                                <div class="caption-content fx-start" data-animation="fadeInUp">
+                                    @item.Discription
+                                </div>
+                                <img class="picture fx-start" data-animation="bounceIn" src="@Url.Content(item.Imgurl)" alt="Slider 2" />
+                            </div>
+
+                        </article>
+                        break;
+                    case SlideType.RightText:
+                        <article class="item light @(j == 0 ? "active":"")" style="background-image:url(@Url.Content(item.BackgrounImg));">
+                            <div class="carousel-caption slider-item-right slider-item-v-center fx">
+                                <div class="caption-header fx-start" data-animation="fadeInDown"><h2>@item.Heading</h2></div>
+                                <div class="caption-content fx-start" data-animation="fadeInUp">
+                                    <p>@item.Discription</p>
+                                </div>
+                                <img class="picture fx-start" data-animation="bounceIn" src="@Url.Content(item.Imgurl)" alt="Slider 3" />
+                            </div>
+                        </article>
+                        break;
+                    default:
+                        break;
+                }
+                j++;
+            }
+        </div>
+    </section>
+}

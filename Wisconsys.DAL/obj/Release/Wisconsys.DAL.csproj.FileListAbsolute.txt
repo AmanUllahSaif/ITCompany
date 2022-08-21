@@ -1,0 +1,10 @@
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Release\Wisconsys.DAL.dll.config
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Release\Wisconsys.DAL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Release\Wisconsys.DAL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Release\EntityFramework.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Release\EntityFramework.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\obj\Release\Wisconsys.DAL.csprojResolveAssemblyReference.cache
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\obj\Release\Wisconsys.DAL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.DAL\obj\Release\Wisconsys.DAL.pdb

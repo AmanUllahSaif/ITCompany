@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Wisconsys.DAL.Project>
+
+@if (Model != null && Model.Count() > 0)
+{
+
+    <div class="panel-grid" id="portfolio">
+        <div class="panel-row-style-panel-full panel-full panel-row-style" style="padding-top: 40px;border-top: 1px solid #dedede;">
+            <div class="panel-grid-cell" id="pgc-73-3-0">
+                <div class="so-panel widget widget_vr_banner panel-first-child" id="panel-73-3-0-0">
+
+                    <article class="banner-center clearfix fx-start" data-animation="fadeInDown">
+                        <div class="banner-inner">
+                            <h2>Portfolio</h2>
+                            <div class="line-center"></div>
+                        </div>
+                    </article>
+
+
+                </div>
+                <div class="so-panel widget widget_vr_gallerys panel-last-child" id="panel-73-3-0-1">
+                    <div class="gallery-unevens clearfix  ">
+
+                        @foreach (var item in Model)
+                        {
+                            <div class="gallery-uneven  col-sm-12 col-md-3 fx-start" data-animation="bounceIn" style="height:250px;">
+                                <div class="thumbnail fx-hover" style="background-size:cover;background-image:url('@Url.Content(item.ImageUrl)')">
+                                    <div class="fx-hover-back"></div>
+                                    <div class="fx-hover-content">
+                                        <a href="@Url.Content(item.ProjectUrl)" target="_blank"><h3>@item.Name</h3></a>
+                                        <div class="line"></div>
+                                    </div>
+                                    <div class="fx-hover-icon">
+                                        <a class="icon-medium icon-main" href="@Url.Content(item.ProjectUrl)" target="_blank"><i class="fa fa-search"></i></a>
+                                        <a class="icon-medium icon-main" href="@Url.Content(item.ProjectUrl)" target="_blank"><i class="fa fa-link"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </div>
+}
+
+@section Scripts {
+    <script type="text/javascript">
+        $('#portfoliobar').addClass('current_page_item')
+    </script>
+}

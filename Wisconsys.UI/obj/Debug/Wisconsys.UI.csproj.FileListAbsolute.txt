@@ -1,0 +1,712 @@
+D:\VNext_Projects\Wisconsys.UI\bin\ApplicationInsights.config
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\csc.exe
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\vbc.exe
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe
+D:\VNext_Projects\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\VNext_Projects\Wisconsys.UI\bin\Wisconsys.UI.dll.config
+D:\VNext_Projects\Wisconsys.UI\bin\Wisconsys.UI.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Wisconsys.UI.pdb
+D:\VNext_Projects\Wisconsys.UI\bin\Antlr3.Runtime.dll
+D:\VNext_Projects\Wisconsys.UI\bin\EntityFramework.dll
+D:\VNext_Projects\Wisconsys.UI\bin\EntityFramework.SqlServer.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.Web.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.ApplicationInsights.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Newtonsoft.Json.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Owin.dll
+D:\VNext_Projects\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.Helpers.dll
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.Mvc.dll
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.Optimization.dll
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.Razor.dll
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.WebPages.Deployment.dll
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.WebPages.dll
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.WebPages.Razor.dll
+D:\VNext_Projects\Wisconsys.UI\bin\WebGrease.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Wisconsys.BLL.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Wisconsys.DAL.dll
+D:\VNext_Projects\Wisconsys.UI\bin\Wisconsys.BLL.pdb
+D:\VNext_Projects\Wisconsys.UI\bin\Wisconsys.DAL.pdb
+D:\VNext_Projects\Wisconsys.UI\bin\Antlr3.Runtime.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.Web.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.ApplicationInsights.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\VNext_Projects\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.Helpers.xml
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.Mvc.xml
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.Optimization.xml
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.Razor.xml
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.WebPages.xml
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.WebPages.Deployment.xml
+D:\VNext_Projects\Wisconsys.UI\bin\System.Web.WebPages.Razor.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Newtonsoft.Json.xml
+D:\VNext_Projects\Wisconsys.UI\bin\EntityFramework.xml
+D:\VNext_Projects\Wisconsys.UI\bin\EntityFramework.SqlServer.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\VNext_Projects\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VNext_Projects\Wisconsys.UI\obj\Debug\Wisconsys.UI.csprojResolveAssemblyReference.cache
+D:\VNext_Projects\Wisconsys.UI\obj\Debug\Wisconsys.UI.dll
+D:\VNext_Projects\Wisconsys.UI\obj\Debug\Wisconsys.UI.pdb
+D:\VNext_Projects\IT Company\Wisconsys.UI\obj\Debug\Wisconsys.UI.csprojResolveAssemblyReference.cache
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\ApplicationInsights.config
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\csc.exe
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\vbc.exe
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Wisconsys.UI.dll.config
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Wisconsys.UI.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Wisconsys.UI.pdb
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Antlr3.Runtime.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\EntityFramework.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\EntityFramework.SqlServer.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.Web.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.ApplicationInsights.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Newtonsoft.Json.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Owin.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.Helpers.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.Mvc.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.Optimization.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.Razor.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Deployment.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Razor.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\WebGrease.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Wisconsys.BLL.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Wisconsys.DAL.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Wisconsys.BLL.pdb
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Wisconsys.DAL.pdb
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Antlr3.Runtime.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.Web.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.ApplicationInsights.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.Helpers.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.Mvc.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.Optimization.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.Razor.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Deployment.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Razor.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Newtonsoft.Json.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\EntityFramework.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\EntityFramework.SqlServer.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VNext_Projects\IT Company\Wisconsys.UI\obj\Debug\Wisconsys.UI.dll
+D:\VNext_Projects\IT Company\Wisconsys.UI\obj\Debug\Wisconsys.UI.pdb
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\ApplicationInsights.config
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\csc.exe
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\System.Collections.Immutable.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\vbc.exe
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe.config
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Wisconsys.UI.dll.config
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Wisconsys.UI.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Wisconsys.UI.pdb
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Antlr3.Runtime.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\EntityFramework.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\EntityFramework.SqlServer.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.Web.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.ApplicationInsights.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Web.Infrastructure.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Newtonsoft.Json.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Owin.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.Helpers.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.Mvc.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.Optimization.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.Razor.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Deployment.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Razor.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\WebGrease.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Wisconsys.BLL.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Wisconsys.DAL.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Wisconsys.BLL.pdb
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Wisconsys.DAL.pdb
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Antlr3.Runtime.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.Web.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.ApplicationInsights.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.Helpers.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.Mvc.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.Optimization.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.Razor.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Deployment.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Razor.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Newtonsoft.Json.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\EntityFramework.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\EntityFramework.SqlServer.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\C#.Net Projects\IT Company\Wisconsys.UI\obj\Debug\Wisconsys.UI.csprojResolveAssemblyReference.cache
+F:\C#.Net Projects\IT Company\Wisconsys.UI\obj\Debug\Wisconsys.UI.dll
+F:\C#.Net Projects\IT Company\Wisconsys.UI\obj\Debug\Wisconsys.UI.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\ApplicationInsights.config
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\csc.exe
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\vbc.exe
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Wisconsys.UI.dll.config
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Wisconsys.UI.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Wisconsys.UI.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Antlr3.Runtime.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\EntityFramework.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.Web.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Newtonsoft.Json.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Owin.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.Helpers.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.Mvc.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.Optimization.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.Razor.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.WebPages.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\WebGrease.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Wisconsys.BLL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Wisconsys.DAL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Wisconsys.BLL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Wisconsys.DAL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Antlr3.Runtime.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.Web.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.Helpers.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.Mvc.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.Optimization.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.Razor.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.WebPages.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Newtonsoft.Json.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\EntityFramework.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\obj\Debug\Wisconsys.UI.csprojResolveAssemblyReference.cache
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\obj\Debug\Wisconsys.UI.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.UI\obj\Debug\Wisconsys.UI.pdb
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\ApplicationInsights.config
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\csc.exe
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\System.Collections.Immutable.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\vbc.exe
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe.config
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Wisconsys.UI.dll.config
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Wisconsys.UI.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Wisconsys.UI.pdb
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Antlr3.Runtime.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\EntityFramework.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\EntityFramework.SqlServer.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.Web.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.ApplicationInsights.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Web.Infrastructure.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Newtonsoft.Json.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Owin.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.Helpers.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.Mvc.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.Optimization.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.Razor.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Deployment.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Razor.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\WebGrease.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Wisconsys.BLL.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Wisconsys.DAL.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Wisconsys.BLL.pdb
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Wisconsys.DAL.pdb
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Antlr3.Runtime.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.Web.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.ApplicationInsights.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.Helpers.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.Mvc.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.Optimization.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.Razor.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Deployment.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Razor.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Newtonsoft.Json.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\EntityFramework.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\EntityFramework.SqlServer.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\office\Projects\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.csprojResolveAssemblyReference.cache
+E:\office\Projects\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.dll
+E:\office\Projects\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.pdb
+F:\Vnext\ITCompany\Wisconsys.UI\bin\ApplicationInsights.config
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\csc.exe
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\System.Collections.Immutable.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\vbc.exe
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe
+F:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe.config
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.UI.dll.config
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.UI.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.UI.pdb
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Antlr3.Runtime.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\EntityFramework.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\EntityFramework.SqlServer.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.Web.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.ApplicationInsights.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Web.Infrastructure.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Newtonsoft.Json.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Owin.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Helpers.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Mvc.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Optimization.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Razor.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Deployment.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Razor.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\WebGrease.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.BLL.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.DAL.dll
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.BLL.pdb
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.DAL.pdb
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Antlr3.Runtime.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.Web.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.ApplicationInsights.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Helpers.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Mvc.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Optimization.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Razor.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Deployment.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Razor.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Newtonsoft.Json.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\EntityFramework.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\EntityFramework.SqlServer.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Vnext\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.csprojResolveAssemblyReference.cache
+F:\Vnext\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.dll
+F:\Vnext\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.pdb
+E:\Vnext\ITCompany\Wisconsys.UI\bin\ApplicationInsights.config
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\csc.exe
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\System.Collections.Immutable.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\vbc.exe
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe
+E:\Vnext\ITCompany\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe.config
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.UI.dll.config
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.UI.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.UI.pdb
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Antlr3.Runtime.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\EntityFramework.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\EntityFramework.SqlServer.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.Web.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.ApplicationInsights.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Web.Infrastructure.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Newtonsoft.Json.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Owin.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Helpers.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Mvc.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Optimization.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Razor.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Deployment.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Razor.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\WebGrease.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.BLL.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.DAL.dll
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.BLL.pdb
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.DAL.pdb
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Antlr3.Runtime.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.Web.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.ApplicationInsights.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Helpers.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Mvc.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Optimization.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.Razor.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Deployment.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\System.Web.WebPages.Razor.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Newtonsoft.Json.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\EntityFramework.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\EntityFramework.SqlServer.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Vnext\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.dll
+E:\Vnext\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.pdb
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.BLL.dll.config
+E:\Vnext\ITCompany\Wisconsys.UI\bin\Wisconsys.DAL.dll.config
+E:\Vnext\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.csprojAssemblyReference.cache
+E:\Vnext\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.csproj.CoreCompileInputs.cache
+E:\Vnext\ITCompany\Wisconsys.UI\obj\Debug\Wisconsys.UI.csproj.CopyComplete
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\ApplicationInsights.config
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\csc.exe
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\System.Collections.Immutable.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\vbc.exe
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\roslyn\VBCSCompiler.exe.config
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Wisconsys.UI.dll.config
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Wisconsys.UI.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Wisconsys.UI.pdb
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Antlr3.Runtime.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\EntityFramework.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\EntityFramework.SqlServer.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.Web.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.ApplicationInsights.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Web.Infrastructure.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Newtonsoft.Json.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Owin.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.Helpers.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.Mvc.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.Optimization.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.Razor.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.WebPages.Deployment.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.WebPages.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.WebPages.Razor.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\WebGrease.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Wisconsys.BLL.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Wisconsys.DAL.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Wisconsys.BLL.pdb
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Wisconsys.BLL.dll.config
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Wisconsys.DAL.pdb
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Wisconsys.DAL.dll.config
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Antlr3.Runtime.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.Web.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AI.WindowsServer.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.ApplicationInsights.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.Helpers.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.Mvc.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.Optimization.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.Razor.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.WebPages.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.WebPages.Deployment.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\System.Web.WebPages.Razor.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Newtonsoft.Json.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\EntityFramework.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\EntityFramework.SqlServer.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.Google.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Vnext\ITCompany ok\Wisconsys.UI\obj\Debug\Wisconsys.UI.csprojAssemblyReference.cache
+E:\Vnext\ITCompany ok\Wisconsys.UI\obj\Debug\Wisconsys.UI.csproj.CoreCompileInputs.cache
+E:\Vnext\ITCompany ok\Wisconsys.UI\obj\Debug\Wisconsys.UI.csproj.CopyComplete
+E:\Vnext\ITCompany ok\Wisconsys.UI\obj\Debug\Wisconsys.UI.dll
+E:\Vnext\ITCompany ok\Wisconsys.UI\obj\Debug\Wisconsys.UI.pdb

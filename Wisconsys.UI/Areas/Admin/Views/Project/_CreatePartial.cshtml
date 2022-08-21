@@ -1,0 +1,64 @@
+﻿@model Wisconsys.DAL.Project
+
+<style>
+    .fileinput-preview img {
+        width: 100%;
+    }
+</style>
+@using (Html.BeginForm("Create", "Project", FormMethod.Post, new { @class = "", @enctype = "multipart/form-data", onSubmit = "return ValidateFiles()" }))
+{
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h4>Create Project</h4>
+        </div>
+        <div class="panel-body">
+            <div class="col-sm-12">
+                <div class="col-sm-3">
+                    @Html.LabelFor(x => x.Name, new { @class = "control-label", @for = "Text" })
+                    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.Name)
+                </div>
+                <div class="col-sm-3">
+                    @Html.LabelFor(x => x.ProjectUrl, new { @class = "control-label" })
+                    @Html.TextBoxFor(x => x.ProjectUrl, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.ProjectUrl)
+                </div>
+               
+            </div>
+            <div class="col-sm-12">
+                @Html.LabelFor(x => x.Discription, new { @class = "control-label" })
+                @Html.TextAreaFor(x => x.Discription, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Discription)
+            </div>
+            <div class="col-sm-12">
+                <div class="col-sm-6" style="margin-top:10px;">
+                    <div class="fileinput fileinput-new" data-provides="fileinput" style="width: 100%; height: 150px;">
+                        <div class="fileinput-preview thumbnail" data-trigger="fileinput" style="width: 100%; height: 150px;">
+
+                        </div>
+                        <div>
+                            <span class="btn btn-default btn-file"><span class="fileinput-new">Select image</span><span class="fileinput-exists">Change</span><input type="file" class="file" name="file"></span>
+                            <a href="#" class="btn btn-default fileinput-exists" data-dismiss="fileinput">Remove</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12" id="tbl">
+
+                </div>
+            </div>
+        </div>
+
+        <div class="panel-footer text-right">
+            <div class="row">
+                <div class="col-sm-12">
+                    <input type="submit" value="Save" class="btn btn-success" />
+                    <input type="reset" value="Cancel" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,63 @@
+﻿@model Wisconsys.DAL.Product
+@{
+    ViewBag.Title = "Product";
+}
+
+
+
+<div id="branding" class="light" style="background-image: url(/Assets/images/slider-main-bg.jpg);">
+    <div class="container fx clearifx">
+
+        <!-- begin .title-header -->
+        <div class="title-header">
+
+        </div>
+        <!-- end .title-header -->
+        <!-- begin .breadcrumb -->
+        <!-- end .breadcrumb -->
+
+    </div>
+</div>
+
+<div class="sticky-start"></div>
+
+
+
+<div id="container">
+    <div id="content" role="main">
+        <div class="container">
+            <div class="row row-equal">
+                <div class="row" style="margin-top:25px">
+                    <div class="col-md-4">
+                        <div style="height:400px;width:100%;">
+                            
+                            <img id="main-img" src="@Model.ProductImages.FirstOrDefault(x => x.IsActive).Url" style="height:380px;margin:10px;width:100%" />
+                        </div>
+                        @foreach (var item in Model.ProductImages)
+                        {
+                            if (item.IsActive)
+                            {
+                                <img src="@item.Url" style="height:100px;margin:10px;width:100px;float:left;" />
+                            }
+                        }
+                    </div>
+                    <div class="col-md-6">
+                        <h2 class="widget-title title-lines">
+                            @Model.Name
+                        </h2>
+                        <div class="lines"></div>
+                        <p>
+                           @Model.Discription
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        $('#productbar').addClass('current_page_item')
+    </script>
+}

@@ -1,0 +1,175 @@
+﻿@model Wisconsys.UI.Models.ContactModel
+@{
+    ViewBag.Title = "Contact";
+}
+<div id="branding" class="light" style="background-image: url(/Assets/images/slider-main-bg.jpg);">
+    <div class="container fx clearifx">
+
+        <!-- begin .title-header -->
+        <div class="title-header">
+
+        </div>
+        <!-- end .title-header -->
+        <!-- begin .breadcrumb -->
+        <!-- end .breadcrumb -->
+
+    </div>
+</div>
+
+<div class="sticky-start"></div>
+
+<div id="content" class="site-content content-builder" style="overflow:hidden">
+    <div class="container">
+        <div class="row row-content">
+
+            <!-- begin #primary -->
+            <div id="primary" class="content-area col-md-8">
+                <!-- begin #main -->
+                <main id="main" class="site-main" role="main">
+
+
+
+                    <!-- begin #post-## -->
+                    <article id="post-1319" class="post-1319 page type-page status-publish hentry">
+
+                        <!-- begin .entry-content -->
+                        <div class="entry-content">
+                            <div id="pl-1319">
+                                <div class="panel-grid" id="pg-1319-0">
+                                    <div style="padding: 40px 31.5px; margin-left: -31.5px; margin-right: -31.5px;" class="panel-row-style">
+                                        <div class="col-md-8">
+                                            <div class="so-panel widget widget_vr_text panel-first-child panel-last-child" id="panel-1319-0-0-0">
+                                                <article class="text clearfix ">
+                                                    <h2 class="widget-title title-lines">Contact Us For <strong>New Project</strong></h2>
+                                                    <div class="lines"></div>
+                                                    <div class="wpcf7" id="wpcf7-f2555-p1319-o1" lang="en-US" dir="ltr">
+                                                        @using (Html.BeginForm("Contact", "Home", FormMethod.Post, new { id = "frmCntct", onSubmit = "return emailConfirm(this)" }))
+                                                        {
+                                                            @Html.AntiForgeryToken()
+                                                            <div class="row">
+                                                                <div class="form-group col-md-4">
+                                                                    <div class="form-icon"><i class="fa fa-user"></i>Your Name <span>*</span></div>
+                                                                    <p>
+                                                                        <span class="wpcf7-form-control-wrap your-name">
+                                                                            @Html.TextBoxFor(x => x.Name, new { size = "40", @class = "wpcf7-form-control wpcf7-text wpcf7-validates-as-required" })
+                                                                        </span>
+                                                                    </p>
+                                                                </div>
+                                                                <div class="form-group col-md-4">
+                                                                    <div class="form-icon"><i class="fa fa-envelope"></i>Your Email <span>*</span></div>
+                                                                    <p>
+                                                                        <span class="wpcf7-form-control-wrap your-email">
+                                                                            @Html.TextBoxFor(x => x.Email, new { size = "40", @class = "wpcf7-form-control wpcf7-text wpcf7-validates-as-required" })
+                                                                        </span>
+                                                                    </p>
+                                                                </div>
+                                                                <div class="form-group col-md-4">
+                                                                    <div class="form-icon"><i class="fa fa-globe"></i>Your subject <span>*</span></div>
+                                                                    <p>
+                                                                        <span class="wpcf7-form-control-wrap your-subject">
+                                                                            @Html.TextBoxFor(x => x.Subject, new { size = "40", @class = "wpcf7-form-control wpcf7-text wpcf7-validates-as-required" })
+                                                                        </span>
+                                                                    </p>
+                                                                </div>
+                                                                <div class="form-group vr-form-textarea col-md-12">
+                                                                    <div class="form-icon"><i class="fa fa-comment"></i>Your Message <span>*</span></div>
+                                                                    <p>
+                                                                        <span class="wpcf7-form-control-wrap your-message">
+                                                                            @Html.TextAreaFor(x => x.Message, new { size = "40", cols = "40", rows = "10", @class = "wpcf7-form-control wpcf7-text wpcf7-validates-as-required" })
+                                                                        </span>
+                                                                    </p>
+                                                                </div>
+                                                                <div class="form-group col-md-12">
+                                                                    <p><input type="submit" value="Submit Message" class="wpcf7-form-control wpcf7-submit"></p>
+                                                                </div>
+                                                            </div>
+                                                            if (ViewBag.Message != null)
+                                                            {
+                                                                <div class="col-sm-12 alert alert-danger">
+                                                                    @ViewBag.Message
+                                                                </div>
+                                                            }
+                                                        }
+                                                    </div>
+                                                </article>
+
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="so-panel widget widget_vr_text panel-first-child panel-last-child" id="panel-1319-0-1-0">
+                                                <article class="text clearfix ">
+                                                    <h3 class="widget-title title-lines">UK Office</h3>
+                                                    <div class="lines"></div>
+                                                    <p><strong>Address :</strong>67 Clone Road Brierfield , BB9 5NP</p>
+                                                    <p><strong>Phone :</strong> 01282500000<br><strong>Cell :</strong> 01282500000<br><strong>Email :</strong> <a href="#">Admin@Softyhouseltd.co.uk</a></p><br>
+                                                </article>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="panel-row-style-panel-full panel-full panel-row-style">
+                                        <div class="panel-grid-cell" id="pgc-1319-1-0">
+                                            <div class="so-panel widget widget_vr_text panel-first-child panel-last-child" id="panel-1319-1-0-0">
+                                                <article class="text clearfix bounceIn fx-end" data-animation="bounceIn">
+                                                    <article class="embed-map" style="height:280px">
+                                                        <iframe style="pointer-events:none;" width="100%" height="280" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=303 N Sawyer St Oshkosh, WI 54902&amp;output=embed&amp;markers=color:red%7Clabel:B%7C-8.581763,115.3755938"></iframe>
+                                                                                                                                                                                        
+                                                    </article>
+                                                </article>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end .entry-content -->
+
+                    </article>
+                    <!-- end #post-## -->
+
+
+                </main>
+                <!-- end #main -->
+            </div>
+            <!-- end #primary -->
+
+
+        </div>
+    </div>
+</div>
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">E-Mail Sent</h4>
+            </div>
+            <div class="modal-body">
+                <p>Your e-mail is sent to our team we will contact you soon.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        function emailConfirm(e) {
+            var isValid = $('#frmCntct').valid();
+            if ($('#frmCntct').valid()) {
+                $('#myModal').modal();
+            }
+
+        }
+
+        $('#contact').addClass('current_page_item')
+    </script>
+}

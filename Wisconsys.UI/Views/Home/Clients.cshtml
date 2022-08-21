@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Wisconsys.DAL.Client>
+
+@if (Model != null && Model.Count() > 0)
+{
+    <div class="panel-grid" id="pg-73-10">
+        <div class="panel-row-style-lightpanel-faq light panel-faq panel-row-style" style="padding: 40px 31.5px 10px; background-color: rgb(119, 191, 79); margin-left: -31.5px; margin-right: -31.5px;">
+            <div class="owl-carousel owl-theme">
+                @foreach (var item in Model)
+                {
+                    <div class="item">
+                        <img src="@Url.Content(item.ImgUrl)" style="height:75px;width:100%" />
+                        @item.Name
+                    </div>
+                }
+               
+                
+            </div>
+        </div>
+    </div>
+}
+

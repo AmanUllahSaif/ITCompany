@@ -1,0 +1,90 @@
+D:\VNext_Projects\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll.config
+D:\VNext_Projects\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll
+D:\VNext_Projects\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.pdb
+D:\VNext_Projects\Wisconsys.BLL\bin\Debug\EntityFramework.dll
+D:\VNext_Projects\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\VNext_Projects\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.dll
+D:\VNext_Projects\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.pdb
+D:\VNext_Projects\Wisconsys.BLL\bin\Debug\EntityFramework.xml
+D:\VNext_Projects\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\VNext_Projects\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csprojResolveAssemblyReference.cache
+D:\VNext_Projects\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.dll
+D:\VNext_Projects\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.pdb
+D:\VNext_Projects\IT Company\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csprojResolveAssemblyReference.cache
+D:\VNext_Projects\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll.config
+D:\VNext_Projects\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll
+D:\VNext_Projects\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.pdb
+D:\VNext_Projects\IT Company\Wisconsys.BLL\bin\Debug\EntityFramework.dll
+D:\VNext_Projects\IT Company\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\VNext_Projects\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.dll
+D:\VNext_Projects\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.pdb
+D:\VNext_Projects\IT Company\Wisconsys.BLL\bin\Debug\EntityFramework.xml
+D:\VNext_Projects\IT Company\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\VNext_Projects\IT Company\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.dll
+D:\VNext_Projects\IT Company\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll.config
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Debug\EntityFramework.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.pdb
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Debug\EntityFramework.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csprojResolveAssemblyReference.cache
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.dll
+C:\Users\H_Shahid\Desktop\IT Company\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.pdb
+E:\office\Projects\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll.config
+E:\office\Projects\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll
+E:\office\Projects\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.pdb
+E:\office\Projects\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.dll
+E:\office\Projects\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\office\Projects\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.dll
+E:\office\Projects\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.pdb
+E:\office\Projects\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.xml
+E:\office\Projects\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\office\Projects\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csprojResolveAssemblyReference.cache
+E:\office\Projects\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.dll
+E:\office\Projects\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.pdb
+F:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll.config
+F:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll
+F:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.pdb
+F:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.dll
+F:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.dll
+F:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.pdb
+F:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.xml
+F:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Vnext\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csprojResolveAssemblyReference.cache
+F:\Vnext\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.dll
+F:\Vnext\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.pdb
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll.config
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.pdb
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.dll
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.dll
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.pdb
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.xml
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Vnext\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.dll
+E:\Vnext\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.pdb
+E:\Vnext\ITCompany\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.dll.config
+E:\Vnext\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csprojAssemblyReference.cache
+E:\Vnext\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csproj.CoreCompileInputs.cache
+E:\Vnext\ITCompany\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csproj.CopyComplete
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll.config
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.dll
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\Wisconsys.BLL.pdb
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\EntityFramework.dll
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.dll
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.pdb
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\Wisconsys.DAL.dll.config
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\EntityFramework.xml
+E:\Vnext\ITCompany ok\Wisconsys.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Vnext\ITCompany ok\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csprojAssemblyReference.cache
+E:\Vnext\ITCompany ok\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csproj.CoreCompileInputs.cache
+E:\Vnext\ITCompany ok\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.csproj.CopyComplete
+E:\Vnext\ITCompany ok\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.dll
+E:\Vnext\ITCompany ok\Wisconsys.BLL\obj\Debug\Wisconsys.BLL.pdb

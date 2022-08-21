@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Wisconsys.DAL.Product>
+
+@{ 
+    string url = Request.Url.AbsolutePath;
+    bool check = url.ToLower().Equals("/");
+    check = check || url.ToLower().Equals("/home") || url.ToLower().Equals("/home/index");
+}
+
+@if (check)
+{
+    <nav id="site-navigation" class="main-navigation" role="navigation">
+        <ul id="primary-menu" class="light">
+            <li id="home" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-73 menu-item-3797"><a href="#slider-main">Home</a></li>
+            <li id="productbar" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8">
+                <a href="#product">Products</a>
+                @if (Model != null && Model.Count() > 0)
+                {
+                    <ul class="sub-menu">
+                        @foreach (var item in Model)
+                    {
+                            <li id="menu-item-1328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1328"><a href="@Url.Content("~/home/product/")@item.Id">@item.Name</a></li>
+
+                        }
+                    </ul>
+                }
+
+            </li>
+            <li id="services" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7">
+                <a href="#servies">Services</a>
+
+            </li>
+            @if (ViewBag.IsPortfolio == true)
+            {
+                <li id="portfoliobar" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6">
+                    <a href="#portfolio">Portfolio</a>
+                </li>
+            }
+            
+            <li id="about" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9">
+                <a href="@Url.Content("~/home/about")">About Us</a>
+            </li>
+            <li id="contact" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3796"><a href="@Url.Content("~/home/contact")">Contact</a></li>
+        </ul>
+    </nav>
+}
+else
+{
+    <nav id="site-navigation" class="main-navigation" role="navigation">
+        <ul id="primary-menu" class="light">
+            <li id="home" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-73 menu-item-3797"><a href="@Url.Content("~/")">Home</a></li>
+            <li id="productbar" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8">
+                <a href="@Url.Content("~/")">Products</a>
+                @if (Model != null && Model.Count() > 0)
+                {
+                    <ul class="sub-menu">
+                        @foreach (var item in Model)
+                    {
+                            <li id="menu-item-1328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1328"><a href="@Url.Content("~/home/product/")@item.Id">@item.Name</a></li>
+
+                        }
+                    </ul>
+                }
+
+            </li>
+            <li id="services" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7">
+                <a href="@Url.Content("~/home/services")">Services</a>
+
+            </li>
+            @if (ViewBag.IsPortfolio == true)
+            {
+                <li id="portfoliobar" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6">
+                    <a href="@Url.Content("~/home/index")">Portfolio</a>
+                </li>
+            }
+            
+            <li id="about" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9">
+                <a href="@Url.Content("~/home/about")">About Us</a>
+            </li>
+            <li id="contact" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3796"><a href="@Url.Content("~/home/contact")">Contact</a></li>
+        </ul>
+    </nav>
+}
